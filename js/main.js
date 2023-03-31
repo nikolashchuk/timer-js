@@ -39,4 +39,4 @@ function preloaderAndTimer() {
 // запуск функции каждую секунду
 setInterval(updateCounter, 1000);
 // замена прелоадера на таймер
-setTimeout(preloaderAndTimer, 3000);
+setTimeout(preloaderAndTimer, 2000);
